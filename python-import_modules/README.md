@@ -10,3 +10,4 @@ Scripts covering imports, modules, dir() and command line arguments.
 | 3-infinite_add.py | Prints the sum of all arguments |
 | 4-hidden_discovery.py | Lists names defined in hidden_4.pyc |
 | 5-variable_load.py | Imports and prints variable a from variable_load_5 |
+| 100-my_calculator.py | Command line calculator using calculator_1 |
