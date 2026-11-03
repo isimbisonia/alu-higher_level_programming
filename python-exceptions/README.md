@@ -13,3 +13,4 @@ This project teaches how to handle errors in Python using try, except and finall
 - `2-safe_print_list_integers.py`: prints only the integers of a list
 - `3-safe_print_division.py`: divides two integers safely
 - `4-list_division.py`: divides two lists element by element
+- `5-raise_exception.py`: raises a TypeError
