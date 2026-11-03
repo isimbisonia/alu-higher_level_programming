@@ -9,3 +9,4 @@ This project teaches how to handle errors in Python using try, except and finall
 
 ## Files
 - `0-safe_print_list.py`: prints x elements of a list safely
+- `1-safe_print_integer.py`: prints an integer safely
