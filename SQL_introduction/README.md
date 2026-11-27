@@ -12,3 +12,4 @@ This project introduces MySQL and basic SQL queries.
 | 4-first_table.sql | Creates a table called first_table in the current database |
 | 6-list_values.sql | Lists all rows of the table first_table |
 | 5-full_table.sql | Prints the full description of the table first_table |
+| 7-insert_value.sql | Inserts a new row (89, Best School) in the table first_table |
