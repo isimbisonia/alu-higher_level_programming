@@ -15,3 +15,4 @@ This project introduces MySQL and basic SQL queries.
 | 7-insert_value.sql | Inserts a new row (89, Best School) in the table first_table |
 | 8-count_89.sql | Displays the number of records with id = 89 in the table first_table |
 | 9-full_creation.sql | Creates the table second_table and adds multiple rows |
+| 10-top_score.sql | Lists all records of second_table ordered by score (top first) |
