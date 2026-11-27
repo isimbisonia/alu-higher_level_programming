@@ -13,3 +13,4 @@ This project introduces MySQL and basic SQL queries.
 | 6-list_values.sql | Lists all rows of the table first_table |
 | 5-full_table.sql | Prints the full description of the table first_table |
 | 7-insert_value.sql | Inserts a new row (89, Best School) in the table first_table |
+| 8-count_89.sql | Displays the number of records with id = 89 in the table first_table |
