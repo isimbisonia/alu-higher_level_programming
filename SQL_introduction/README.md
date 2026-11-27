@@ -19,3 +19,4 @@ This project introduces MySQL and basic SQL queries.
 | 11-best_score.sql | Lists all records of second_table with a score >= 10, ordered by score (top first) |
 | 12-no_cheating.sql | Updates the score of Bob to 10 in the table second_table |
 | 12-no_cheating.sql | Updates the score of Bob to 10 in the table second_table |
+| 12-no_cheating.sql | Updates the score of Bob to 10 in the table second_table |
