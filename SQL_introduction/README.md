@@ -20,3 +20,4 @@ This project introduces MySQL and basic SQL queries.
 | 12-no_cheating.sql | Updates the score of Bob to 10 in the table second_table |
 | 12-no_cheating.sql | Updates the score of Bob to 10 in the table second_table |
 | 12-no_cheating.sql | Updates the score of Bob to 10 in the table second_table |
+| 13-change_class.sql | Removes all records with a score <= 5 in the table second_table |
