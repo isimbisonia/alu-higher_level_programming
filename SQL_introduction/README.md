@@ -11,3 +11,4 @@ This project introduces MySQL and basic SQL queries.
 | 3-list_tables.sql | Lists all the tables of a database in the MySQL server |
 | 4-first_table.sql | Creates a table called first_table in the current database |
 | 6-list_values.sql | Lists all rows of the table first_table |
+| 5-full_table.sql | Prints the full description of the table first_table |
