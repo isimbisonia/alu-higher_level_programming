@@ -17,3 +17,4 @@ This project introduces MySQL and basic SQL queries.
 | 9-full_creation.sql | Creates the table second_table and adds multiple rows |
 | 10-top_score.sql | Lists all records of second_table ordered by score (top first) |
 | 11-best_score.sql | Lists all records of second_table with a score >= 10, ordered by score (top first) |
+| 12-no_cheating.sql | Updates the score of Bob to 10 in the table second_table |
