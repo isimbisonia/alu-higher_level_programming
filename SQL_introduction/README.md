@@ -23,3 +23,4 @@ This project introduces MySQL and basic SQL queries.
 | 13-change_class.sql | Removes all records with a score <= 5 in the table second_table |
 | 14-average.sql | Computes the score average of all records in the table second_table |
 | 15-groups.sql | Lists the number of records with the same score in the table second_table |
+| 16-no_link.sql | Lists all records of second_table that have a name, ordered by score (top first) |
